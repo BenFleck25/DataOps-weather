@@ -13,8 +13,8 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 11.02,
-    "feels_like": 10.63,
+    "temp": 10.94,
+    "feels_like": 10.54,
     "temp_min": 10.1,
     "temp_max": 11.62,
     "pressure": 1013,
@@ -31,7 +31,7 @@
   "clouds": {
     "all": 100
   },
-  "dt": 1765509511,
+  "dt": 1765513576,
   "sys": {
     "type": 2,
     "id": 2002526,
@@ -43,5 +43,5 @@
   "id": 2639996,
   "name": "Portsmouth",
   "cod": 200,
-  "_last_updated_utc": "2025-12-12T03:18:31.101Z"
+  "_last_updated_utc": "2025-12-12T04:28:45.679Z"
 }
