@@ -13,25 +13,25 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 7.81,
-    "feels_like": 7.81,
-    "temp_min": 6.21,
-    "temp_max": 8.28,
-    "pressure": 992,
-    "humidity": 89,
-    "sea_level": 992,
-    "grnd_level": 989
+    "temp": 7.37,
+    "feels_like": 6.85,
+    "temp_min": 5.66,
+    "temp_max": 7.78,
+    "pressure": 993,
+    "humidity": 92,
+    "sea_level": 993,
+    "grnd_level": 990
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.89,
-    "deg": 166,
-    "gust": 1.34
+    "speed": 1.34,
+    "deg": 174,
+    "gust": 2.68
   },
   "clouds": {
-    "all": 68
+    "all": 56
   },
-  "dt": 1769831979,
+  "dt": 1769835818,
   "sys": {
     "type": 2,
     "id": 2008636,
@@ -43,5 +43,5 @@
   "id": 2639996,
   "name": "Portsmouth",
   "cod": 200,
-  "_last_updated_utc": "2026-01-31T03:59:39.737Z"
+  "_last_updated_utc": "2026-01-31T05:03:38.186Z"
 }
