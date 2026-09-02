@@ -13,35 +13,35 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 18.27,
-    "feels_like": 18.5,
-    "temp_min": 17.88,
-    "temp_max": 19.03,
-    "pressure": 1017,
+    "temp": 18.09,
+    "feels_like": 18.3,
+    "temp_min": 17.62,
+    "temp_max": 19.39,
+    "pressure": 1018,
     "humidity": 90,
-    "sea_level": 1017,
+    "sea_level": 1018,
     "grnd_level": 1015
   },
   "visibility": 10000,
   "wind": {
-    "speed": 8.92,
-    "deg": 242,
-    "gust": 12.82
+    "speed": 8.55,
+    "deg": 243,
+    "gust": 12.51
   },
   "clouds": {
-    "all": 100
+    "all": 94
   },
-  "dt": 1788380434,
+  "dt": 1788392621,
   "sys": {
     "type": 2,
     "id": 2041190,
     "country": "GB",
-    "sunrise": 1788326372,
-    "sunset": 1788374949
+    "sunrise": 1788412865,
+    "sunset": 1788461217
   },
   "timezone": 3600,
   "id": 2639996,
   "name": "Portsmouth",
   "cod": 200,
-  "_last_updated_utc": "2026-09-02T20:20:34.920Z"
+  "_last_updated_utc": "2026-09-02T23:43:41.801Z"
 }
