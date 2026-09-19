@@ -25,13 +25,13 @@
   "visibility": 10000,
   "wind": {
     "speed": 4.02,
-    "deg": 215,
-    "gust": 8.05
+    "deg": 218,
+    "gust": 7.15
   },
   "clouds": {
-    "all": 99
+    "all": 100
   },
-  "dt": 1789847400,
+  "dt": 1789854928,
   "sys": {
     "type": 2,
     "id": 2008636,
@@ -43,5 +43,5 @@
   "id": 2639996,
   "name": "Portsmouth",
   "cod": 200,
-  "_last_updated_utc": "2026-09-19T19:50:00.412Z"
+  "_last_updated_utc": "2026-09-19T21:59:09.544Z"
 }
